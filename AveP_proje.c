@@ -232,21 +232,3 @@ void asansor(double *g) {
         printf("%s icin hissedilen agirlik: %.2lf Newton\n", gezegenler[i], N);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
